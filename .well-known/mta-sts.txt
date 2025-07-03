@@ -1,0 +1,4 @@
+version: STSv1
+mode: testing
+mx: ASPMX.L.GOOGLE.COM
+max_age: 86400
